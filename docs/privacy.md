@@ -23,7 +23,7 @@ If you use the AI chat feature, we process the text you submit in order to gener
 
 To provide this feature, your chat input is transmitted to the OpenAI API (ChatGPT API), and the generated response is returned directly to you through our app. We do not store your chat prompts or responses in our own backend or application database beyond what is necessary to process the request and deliver the response.
 
-OpenAI may process and retain API data in accordance with its own policies. As of March 19, 2026, OpenAI's published API documentation states that API inputs and outputs are not used to train OpenAI models by default, though certain API data may be retained for abuse monitoring for up to 30 days unless different data controls apply.
+OpenAI may process and retain API data in accordance with its own policies. OpenAI's published API documentation states that API inputs and outputs are not used to train OpenAI models by default, though certain API data may be retained for abuse monitoring for up to 30 days unless different data controls apply.
 
 ## How we use your information
 We use the information we collect in various ways, including to:
