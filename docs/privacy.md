@@ -15,6 +15,16 @@ If you contact us directly, we may receive additional information about you such
 
 When you register for an Account, we may ask for your contact information, including items such as your name, avatar, some personal information.
 
+## Face Data Collection
+Face Meridian AI does not capture, store, or transmit user face data to our servers. All face analysis is performed locally on the user's device, and the results are displayed directly to the user.
+
+## AI Chat Feature
+If you use the AI chat feature, we process the text you submit in order to generate a response for you.
+
+To provide this feature, your chat input is transmitted to the OpenAI API (ChatGPT API), and the generated response is returned directly to you through our app. We do not store your chat prompts or responses in our own backend or application database beyond what is necessary to process the request and deliver the response.
+
+OpenAI may process and retain API data in accordance with its own policies. As of March 19, 2026, OpenAI's published API documentation states that API inputs and outputs are not used to train OpenAI models by default, though certain API data may be retained for abuse monitoring for up to 30 days unless different data controls apply.
+
 ## How we use your information
 We use the information we collect in various ways, including to:
 
@@ -22,6 +32,7 @@ Provide, operate, and maintain our system
 Improve, personalize, and expand our system
 Understand and analyze how you use our system
 Develop new products, services, features, and functionality
+Generate AI chat responses based on the text you submit
 Communicate with you, either directly or through one of our partners, including for customer service, to provide you with updates and other information relating to the system, and for marketing and promotional purposes
 Send you emails
 Find and prevent fraud
